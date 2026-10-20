@@ -1,6 +1,4 @@
 # python
 En este apartado iré publicando los ejercicios de python que vayamos haciendo en clase:
 
-Secuenciales
-Alternativos
-Repetitivos
+Secuenciales, alternativos y los repetitivos.
